@@ -1,0 +1,15 @@
+---
+title: "Category-bug"
+listing:
+  - id: first
+    categories: true
+    contents: posts
+  - id: second
+    categories: false
+---
+
+:::{.first}
+:::
+
+:::{.second}
+:::

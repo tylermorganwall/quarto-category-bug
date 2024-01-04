@@ -1,0 +1,8 @@
+---
+title: "post2"
+format: html
+editor: visual
+categories:
+  - Category One
+  - Category Two
+---
